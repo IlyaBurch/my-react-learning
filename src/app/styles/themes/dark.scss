@@ -1,6 +1,12 @@
 .app.dark {
   --bg-color: navy;
+  --inverted-bg-color: #f2f2f9;
 
   --primary-color: MediumSeaGreen;
   --secondary-color: MediumSpringGreen;
+
+  --inverted-primary-color: navy;
+  --inverted-secondary-color: #3232B2;
+
+    transition: all ease-in 100ms;
 }
