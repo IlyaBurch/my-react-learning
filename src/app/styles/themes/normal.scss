@@ -1,6 +1,12 @@
 .app.light {
   --bg-color: #f2f2f9;
+  --inverted-bg-color: navy;
 
   --primary-color: navy;
   --secondary-color: #99CCFF;
+
+  --inverted-primary-color: MediumSeaGreen;
+  --inverted-secondary-color: MediumSpringGreen;
+
+    transition: all ease-in 100ms;
 }
